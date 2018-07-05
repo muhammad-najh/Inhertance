@@ -1,5 +1,5 @@
 package com.example.lenovo.test_5_7inhertance;
-
+// hello world
 public class Muahamd extends Student{
     @Override
     public void setName(String name) {
