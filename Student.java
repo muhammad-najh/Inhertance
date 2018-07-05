@@ -1,7 +1,7 @@
 package com.example.lenovo.test_5_7inhertance;
 
 import android.util.Log;
-
+//Well Done!
 public class Student {
    String name;
     int stage;
